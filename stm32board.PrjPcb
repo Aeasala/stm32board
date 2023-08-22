@@ -82,7 +82,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CTAAJQWV
 
 [Document3]
-DocumentPath=Schematic1.SchDoc
+DocumentPath=Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -218,7 +218,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DLJAROWE
 
 [Document11]
-DocumentPath=lib\STM32F051K8T7.PcbLib
+DocumentPath=lib\LT3060HTS8TRMPBF.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -232,10 +232,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GSEEVBYY
+DocumentUniqueId=
 
 [Document12]
-DocumentPath=lib\STM32F051K8T7.SchLib
+DocumentPath=lib\STM32F051K8T7\STM32F051K8T7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -249,7 +249,58 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BBCCWVIW
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=lib\STM32F051K8T7\STM32F051K8T7.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=lib\LT3060HTS8TRMPBF\LT3060HTS8TRMPBF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=lib\LT3060HTS8TRMPBF\LT3060HTS8TRMPBF.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\AltiumCore\Templates\ESM\Project Outputs for ESM\Design Rule Check - Board_Single.html
