@@ -249,7 +249,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GSEEVBYY
 
 [Document13]
 DocumentPath=lib\STM32F051K8T7\STM32F051K8T7.SchLib
@@ -266,7 +266,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BBCCWVIW
 
 [Document14]
 DocumentPath=lib\LT3060HTS8TRMPBF\LT3060HTS8TRMPBF.PcbLib
@@ -300,7 +300,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IDVZLQIG
+
+[Document16]
+DocumentPath=lib\LT6654AHS6-3.3TRMPBF\LT6654AHS6-3.3TRMPBF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GDVDXGNB
+
+[Document17]
+DocumentPath=lib\LT6654AHS6-3.3TRMPBF\LT6654AHS6-3.3TRMPBF.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CFBHNFUQ
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\AltiumCore\Templates\ESM\Project Outputs for ESM\Design Rule Check - Board_Single.html
