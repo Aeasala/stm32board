@@ -1,4 +1,6 @@
 Record=TopLevelDocument|FileName=TopLevel.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=Supplies|SchDesignator=Supplies|FileName=Supplies.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Supplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_Connectors|SchDesignator=U_Connectors|FileName=Connectors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_Micro|SchDesignator=U_Micro|FileName=Micro.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Micro.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=TopLevel.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=4
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_PowerInput|SchDesignator=U_PowerInput|FileName=PowerInput.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=PowerInput.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TopLevel.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=6
