@@ -218,23 +218,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DLJAROWE
 
 [Document11]
-DocumentPath=lib\LT3060HTS8TRMPBF.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=lib\STM32F051K8T7\STM32F051K8T7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +234,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSEEVBYY
 
-[Document13]
+[Document12]
 DocumentPath=lib\STM32F051K8T7\STM32F051K8T7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBCCWVIW
 
-[Document14]
+[Document13]
 DocumentPath=lib\LT3060HTS8TRMPBF\LT3060HTS8TRMPBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=lib\LT3060HTS8TRMPBF\LT3060HTS8TRMPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDVZLQIG
 
-[Document16]
+[Document15]
 DocumentPath=lib\LT6654AHS6-3.3TRMPBF\LT6654AHS6-3.3TRMPBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +302,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDVDXGNB
 
-[Document17]
+[Document16]
 DocumentPath=lib\LT6654AHS6-3.3TRMPBF\LT6654AHS6-3.3TRMPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
